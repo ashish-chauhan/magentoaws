@@ -23,3 +23,8 @@
 /mage
 /php.ini.sample
 /RELEASE_NOTES.txt
+/app/etc
+/app/locale
+/app/bootstrap.php
+/app/Mage.php
+/app/.htaccess
