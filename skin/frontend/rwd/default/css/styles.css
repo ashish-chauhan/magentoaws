@@ -3182,7 +3182,7 @@ body {
  * Language switcher + welcome message
  * ============================================ */
 .header-language-background {
-  padding: 10px;
+  padding: 40px;
   background-color: #3399cc;
   text-transform: uppercase;
 }
